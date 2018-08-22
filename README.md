@@ -5,7 +5,7 @@ Terminal Cheatsheet for Mac (Basics)
 
 Letters are shown capitalized for readability only. Capslock should be off.
 
-SHORTCUTS
+<h3>SHORTCUTS</h3>
 Key/Command	Description
 Ctrl + A	Go to the beginning of the line you are currently typing on. This also works for most text input fields system wide. Netbeans being one exception
 Ctrl + E	Go to the end of the line you are currently typing on. This also works for most text input fields system wide. Netbeans being one exception
